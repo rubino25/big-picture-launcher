@@ -1,5 +1,7 @@
 # Big Picture Launcher
 
+> **Progetto realizzato interamente con l'intelligenza artificiale, in *vibe coding*.** Codice, script e documentazione sono stati scritti da un'AI seguendo le indicazioni dell'autore, senza una revisione manuale riga per riga. Usalo sapendolo, a tuo rischio.
+
 Launcher a schermo intero per Windows, pensato per usare il PC da un'altra stanza con il solo controller: libreria di giochi e applicazioni con copertine, gestione dei programmi aperti, mouse e tastiera dal controller, audio, schermo, spegnimento.
 
 ## Avvio
